@@ -1,0 +1,22 @@
+{
+    "questions": [
+      {"id": 1, "question": "What does HTML stand for?", "options": ["Hyper Text Markup Language", "High Tech Modern Layout", "Home Tool Markup Language"], "answer": "Hyper Text Markup Language", "difficulty": "easy"},
+      {"id": 2, "question": "Which company developed the Java programming language?", "options": ["Microsoft", "Sun Microsystems", "IBM"], "answer": "Sun Microsystems", "difficulty": "easy"},
+      {"id": 3, "question": "What is the purpose of CSS?", "options": ["Data storage", "Page styling", "Server communication"], "answer": "Page styling", "difficulty": "easy"},
+      {"id": 4, "question": "Is JavaScript a compiled language?", "options": ["True", "False"], "answer": "False", "difficulty": "easy"},
+      {"id": 5, "question": "What is the default port for HTTP?", "options": ["80", "443", "21"], "answer": "80", "difficulty": "easy"},
+  
+      {"id": 6, "question": "Which programming language is known for web scraping?", "options": ["Python", "Java", "C++"], "answer": "Python", "difficulty": "medium"},
+      {"id": 7, "question": "Which HTML tag is used to include JavaScript code?", "options": ["<script>", "<js>", "<code>"], "answer": "<script>", "difficulty": "medium"},
+      {"id": 8, "question": "What does API stand for?", "options": ["Automated Programming Interface", "Application Programming Interface", "Advanced Protocol Integration"], "answer": "Application Programming Interface", "difficulty": "medium"},
+      {"id": 9, "question": "What does DOM stand for in web development?", "options": ["Document Object Model", "Data Object Management", "Dynamic Output Method"], "answer": "Document Object Model", "difficulty": "medium"},
+      {"id": 10, "question": "Which CSS property controls text size?", "options": ["font-size", "text-size", "size"], "answer": "font-size", "difficulty": "medium"},
+  
+      {"id": 11, "question": "What year was JavaScript created?", "options": ["1993", "1995", "2000"], "answer": "1995", "difficulty": "hard"},
+      {"id": 12, "question": "What is the Big O notation for binary search?", "options": ["O(n)", "O(log n)", "O(n^2)"], "answer": "O(log n)", "difficulty": "hard"},
+      {"id": 13, "question": "Who invented the World Wide Web?", "options": ["Tim Berners-Lee", "Linus Torvalds", "Bill Gates"], "answer": "Tim Berners-Lee", "difficulty": "hard"},
+      {"id": 14, "question": "What is the main language used to build Android apps?", "options": ["Java", "Kotlin", "Swift"], "answer": "Kotlin", "difficulty": "hard"},
+      {"id": 15, "question": "Which command is used to initialize a new Git repository?", "options": ["git start", "git init", "git new"], "answer": "git init", "difficulty": "hard"}
+    ]
+  }
+  
