@@ -9,7 +9,7 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 server.use('/api', router)
 server.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', 'https://johngit916.github.io/trivia-app/') // The URL you put here is for the web application that you have deployed using Github Pages
+    res.header('Access-Control-Allow-Origin', 'https://johngit916.github.io/tech-trivia/') // The URL you put here is for the web application that you have deployed using Github Pages
     res.header('Access-Control-Allow-Headers', '*')
     next()
 })
@@ -18,4 +18,4 @@ server.listen(process.env.PORT || 5000, () => {
 })
 
 const cors = require('cors');
-app.use(cors({ origin: 'https://johngit916.github.io/trivia-app/' }));
+app.use(cors({ origin: 'https://johngit916.github.io/tech-trivia/' }));
