@@ -19,12 +19,6 @@
       {"id": 15, "question": "Which command is used to initialize a new Git repository?", "options": ["git start", "git init", "git new"], "answer": "git init", "difficulty": "hard"}
     ],
   
-    "feedback": [{
-      "id": "5273",
-      "name": "lets",
-      "feedback": "seee",
-      "date": "3/28/2025, 9:17:56 PM"
-    }
-  ]
+    "feedback": []
   }
   
