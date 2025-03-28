@@ -17,5 +17,4 @@ server.listen(process.env.PORT || 5000, () => {
     console.log('JSON Server is running')
 })
 
-const cors = require('cors');
-app.use(cors({ origin: 'https://johngit916.github.io/tech-trivia/' }));
+
